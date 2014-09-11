@@ -1,0 +1,609 @@
+TSnakesAndLadders
+v7
+r0
+t327226713.985722
+cCheck dependencies
+cProcessInfoPlistFile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/Info.plist SnakesAndLadders-Info.plist
+cCompileXIB /Users/wimc/SnakesAndLadders/MainWindow.xib
+cCompileXIB /Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.xib
+cCompileXIB /Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.xib
+cCompileXIB /Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.xib
+cCompileXIB /Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.xib
+cCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/icon1.png ../Desktop/icon1.png
+cCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/snake-ladder-iphone-76242.320x480.1255433553.38062.jpg snake-ladder-iphone-76242.320x480.1255433553.38062.jpg
+cCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/snakesAndLadders.jpg snakesAndLadders.jpg
+cCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/Strawberry.gif Strawberry.gif
+cProcessPCH /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch.gch SnakesAndLadders_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/main.o /Users/wimc/SnakesAndLadders/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLaddersAppDelegate.o /Users/wimc/SnakesAndLadders/../.Trash/SnakesAndLaddersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/StartScreenViewController.o /Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/AboutScreenViewController.o /Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/GameScreenViewController.o /Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/OptionsScreenViewController.o /Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/Person.o /Users/wimc/SnakesAndLadders/Classes/Person.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders normal i386
+cGenerateDSYMFile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app.dSYM /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders
+cTouch /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/wimc/.Trash/SnakesAndLaddersAppDelegate.h
+c000000004DD0BE6000000000000001A6
+t1305525856
+s422
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/../.Trash/SnakesAndLaddersAppDelegate.m
+c000000004DD0BD3C0000000000000B08
+t1305525564
+s2824
+i"SnakesAndLaddersAppDelegate.h"
+i"StartScreenViewController.h"
+
+N/Users/wimc/SnakesAndLadders/../Desktop/1487_large_100x100.png
+c000000004DCD43C40000000000004FE1
+t1305297860
+s20449
+
+N/Users/wimc/SnakesAndLadders/../Desktop/icon1.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/wimc/SnakesAndLadders/988201_20100201_screen002.jpg
+c000000004DD09966000000000000EAA1
+t1305516390
+s60065
+
+N/Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.h
+c000000004DD09F7500000000000001A9
+t1305517941
+s425
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.m
+c000000004DD0B22200000000000006DB
+t1305522722
+s1755
+i"AboutScreenViewController.h"
+
+N/Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.xib
+c000000004DD0B3190000000000007890
+t1305522969
+s30864
+
+N/Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.h
+c000000004DD0DE4C00000000000003D5
+t1305534028
+s981
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.m
+c000000004DD0DDD90000000000000F4F
+t1305533913
+s3919
+i"GameScreenViewController.h"
+
+N/Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.xib
+c000000004DD0C71800000000000061E9
+t1305528088
+s25065
+
+N/Users/wimc/SnakesAndLadders/Classes/HelpViewController.h
+c000000004DD09C7C0000000000000121
+t1305517180
+s289
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/Classes/HelpViewController.m
+c000000004DD09CBE00000000000005D2
+t1305517246
+s1490
+i"HelpViewController.h"
+
+N/Users/wimc/SnakesAndLadders/Classes/HelpViewController.xib
+c000000004DD09C9600000000000053A7
+t1305517206
+s21415
+
+N/Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.h
+c000000004DD0B5C100000000000000FC
+t1305523649
+s252
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.m
+c000000004DD0B5C100000000000005C9
+t1305523649
+s1481
+i"OptionsScreenViewController.h"
+
+N/Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.xib
+c000000004DD0D8D90000000000005AE9
+t1305532633
+s23273
+
+N/Users/wimc/SnakesAndLadders/Classes/Person.h
+c000000004DD0B840000000000000022D
+t1305524288
+s557
+i<Foundation/Foundation.h>
+
+N/Users/wimc/SnakesAndLadders/Classes/Person.m
+c000000004DD0B88A0000000000000303
+t1305524362
+s771
+i"Person.h"
+
+N/Users/wimc/SnakesAndLadders/Classes/SnakesAndLaddersAppDelegate.h
+c000000004DD09256000000000000015B
+t1305514582
+s347
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/Classes/SnakesAndLaddersAppDelegate.m
+c000000004DD0925600000000000009EB
+t1305514582
+s2539
+i"SnakesAndLaddersAppDelegate.h"
+
+N/Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.h
+c000000004DD0C1C600000000000002CA
+t1305526726
+s714
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.m
+c000000004DD0C2620000000000000A79
+t1305526882
+s2681
+i"StartScreenViewController.h"
+i"AboutScreenViewController.h"
+i"GameScreenViewController.h"
+
+N/Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.xib
+c000000004DD0DC440000000000009A4A
+t1305533508
+s39498
+
+N/Users/wimc/SnakesAndLadders/MainWindow.xib
+c000000004DD092560000000000002135
+t1305514582
+s8501
+
+N/Users/wimc/SnakesAndLadders/SnakesAndLadders_Prefix.pch
+c000000004DD0925600000000000000C9
+t1305514582
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/Strawberry.gif
+c000000004DD0C7EF000000000000079B
+t1305528303
+s1947
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app
+t1305533913
+s510
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app.dSYM
+t1305533913
+s102
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/1487_large_100x100.png
+t2
+s0
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/988201_20100201_screen002.jpg
+t2
+s0
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/AboutScreenViewController.nib
+t1305522971
+s4937
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/GameScreenViewController.nib
+t1305528344
+s3689
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/HelpViewController.nib
+t1305517232
+s2940
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/Info.plist
+t1305514591
+s633
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/MainWindow.nib
+t1305514610
+s1540
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/OptionsScreenViewController.nib
+t1305532785
+s3125
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/PkgInfo
+t1305514591
+s8
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders
+t1305533913
+s34336
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/StartScreenViewController.nib
+t1305533515
+s6317
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/Strawberry.gif
+t1305528343
+s1947
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/icon1.png
+t1305525048
+s20449
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/snake-ladder-iphone-76242.320x480.1255433553.38062.jpg
+t1305525528
+s27935
+
+N/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/snakesAndLadders.jpg
+t1305526457
+s93933
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/AboutScreenViewController.o
+t1305522722
+s41172
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/GameScreenViewController.o
+t1305533913
+s48912
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/HelpViewController.o
+t1305517247
+s39516
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/OptionsScreenViewController.o
+t1305523686
+s38252
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/Person.o
+t1305524362
+s10648
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLadders.LinkFileList
+c000000004DD0B67000000000000003FC
+t1305523824
+s1020
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLaddersAppDelegate.o
+t1305526726
+s52856
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/StartScreenViewController.o
+t1305531670
+s53620
+
+N/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/main.o
+t1305514616
+s6292
+
+N/Users/wimc/SnakesAndLadders/main.m
+c000000004DD09256000000000000016B
+t1305514582
+s363
+i<UIKit/UIKit.h>
+
+N/Users/wimc/SnakesAndLadders/snake-ladder-iphone-76242.320x480.1255433553.38062.jpg
+c000000004DD0B9960000000000006D1F
+t1305524630
+s27935
+
+N/Users/wimc/SnakesAndLadders/snakesAndLadders.jpg
+c000000004DD0A1BD0000000000016EED
+t1305518525
+s93933
+
+N/var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch.gch
+t1305514615
+s15814064
+
+NSnakesAndLadders-Info.plist
+c000000004DD09256000000000000038D
+t1305514582
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327226713#327226713#0(0"0(0#1#0"8616953440#0"0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/AboutScreenViewController.o /Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327215522.643826
+e327215522.733672
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/AboutScreenViewController.o
+x/Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.m327215522#327215522#0(0"0(0#0#64"/Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.m8615891136#2034"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/AboutScreenViewController.o0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/GameScreenViewController.o /Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327226713.837132
+e327226713.944247
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/GameScreenViewController.o
+x/Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.m327226713#327226713#0(0"0(0#0#63"/Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.m8620952672#2032"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/GameScreenViewController.o0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/HelpViewController.o /Users/wimc/SnakesAndLadders/Classes/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327210047.097952
+e327210047.187670
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/HelpViewController.o
+x/Users/wimc/SnakesAndLadders/Classes/HelpViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/wimc/SnakesAndLadders/Classes/HelpViewController.m327210047#327210047#0(0"0(0#0#57"/Users/wimc/SnakesAndLadders/Classes/HelpViewController.m8612381056#2020"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/Classes/HelpViewController.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/HelpViewController.o0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/OptionsScreenViewController.o /Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327216486.853694
+e327216486.898756
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/OptionsScreenViewController.o
+x/Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.m327216486#327216486#0(0"0(0#0#66"/Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.m8616738976#2038"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/OptionsScreenViewController.o0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/Person.o /Users/wimc/SnakesAndLadders/Classes/Person.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327217162.830868
+e327217162.914150
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/Person.o
+x/Users/wimc/SnakesAndLadders/Classes/Person.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/wimc/SnakesAndLadders/Classes/Person.m327217162#327217162#0(0"0(0#0#45"/Users/wimc/SnakesAndLadders/Classes/Person.m8613240800#1996"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/Classes/Person.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/Person.o0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLaddersAppDelegate.o /Users/wimc/SnakesAndLadders/../.Trash/SnakesAndLaddersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327219526.363696
+e327219526.425350
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLaddersAppDelegate.o
+x/Users/wimc/SnakesAndLadders/../.Trash/SnakesAndLaddersAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/wimc/SnakesAndLadders/../.Trash/SnakesAndLaddersAppDelegate.m327219526#327219526#0(0"0(0#0#68"/Users/wimc/SnakesAndLadders/../.Trash/SnakesAndLaddersAppDelegate.m8618380640#2040"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/../.Trash/SnakesAndLaddersAppDelegate.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLaddersAppDelegate.o0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLaddersAppDelegate.o /Users/wimc/SnakesAndLadders/Classes/SnakesAndLaddersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327207415.798154
+e327207416.055451
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLaddersAppDelegate.o
+x/Users/wimc/SnakesAndLadders/Classes/SnakesAndLaddersAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/wimc/SnakesAndLadders/Classes/SnakesAndLaddersAppDelegate.m327207415#327207416#0(0"0(0#0#66"/Users/wimc/SnakesAndLadders/Classes/SnakesAndLaddersAppDelegate.m8603360320#2038"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/Classes/SnakesAndLaddersAppDelegate.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLaddersAppDelegate.o0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/StartScreenViewController.o /Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327224470.353390
+e327224470.422027
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/StartScreenViewController.o
+x/Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.m327224470#327224470#0(0"0(0#0#64"/Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.m8622374048#2034"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/StartScreenViewController.o0#
+
+CCompileC build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/main.o /Users/wimc/SnakesAndLadders/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327207415.797148
+e327207416.027329
+r1
+xCompileC
+xbuild/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/main.o
+x/Users/wimc/SnakesAndLadders/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/wimc/SnakesAndLadders/main.m327207415#327207416#0(0"0(0#0#35"/Users/wimc/SnakesAndLadders/main.m8603452256#1984"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -include /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch -c /Users/wimc/SnakesAndLadders/main.m -o /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.xib
+s327215770.632556
+e327215771.043666
+r1
+xCompileXIB
+x/Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.xib
+o2011-05-16 10:46:10.895 Interface Builder Cocoa Touch Tool[2689:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@48"CompileXIB Classes/AboutScreenViewController.xib327215770#327215771#0(238"2011-05-16 10:46:10.895 Interface Builder Cocoa Touch Tool[2689:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#66"/Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.xib8613496416#587"    cd /Users/wimc/SnakesAndLadders    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/AboutScreenViewController.nib /Users/wimc/SnakesAndLadders/Classes/AboutScreenViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.xib
+s327221143.993712
+e327221144.357415
+r1
+xCompileXIB
+x/Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.xib
+o2011-05-16 12:15:44.242 Interface Builder Cocoa Touch Tool[4459:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@47"CompileXIB Classes/GameScreenViewController.xib327221143#327221144#0(238"2011-05-16 12:15:44.242 Interface Builder Cocoa Touch Tool[4459:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#65"/Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.xib8614394528#585"    cd /Users/wimc/SnakesAndLadders    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/GameScreenViewController.nib /Users/wimc/SnakesAndLadders/Classes/GameScreenViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/wimc/SnakesAndLadders/Classes/HelpViewController.xib
+s327210031.722626
+e327210032.088114
+r1
+xCompileXIB
+x/Users/wimc/SnakesAndLadders/Classes/HelpViewController.xib
+o2011-05-16 09:10:31.961 Interface Builder Cocoa Touch Tool[747:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@41"CompileXIB Classes/HelpViewController.xib327210031#327210032#0(237"2011-05-16 09:10:31.961 Interface Builder Cocoa Touch Tool[747:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#59"/Users/wimc/SnakesAndLadders/Classes/HelpViewController.xib8612160352#573"    cd /Users/wimc/SnakesAndLadders    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/HelpViewController.nib /Users/wimc/SnakesAndLadders/Classes/HelpViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.xib
+s327225585.259834
+e327225585.631511
+r1
+xCompileXIB
+x/Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.xib
+o2011-05-16 13:29:45.508 Interface Builder Cocoa Touch Tool[6345:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@50"CompileXIB Classes/OptionsScreenViewController.xib327225585#327225585#0(238"2011-05-16 13:29:45.508 Interface Builder Cocoa Touch Tool[6345:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#68"/Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.xib8618554752#591"    cd /Users/wimc/SnakesAndLadders    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/OptionsScreenViewController.nib /Users/wimc/SnakesAndLadders/Classes/OptionsScreenViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.xib
+s327226315.201168
+e327226315.629602
+r1
+xCompileXIB
+x/Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.xib
+o2011-05-16 13:41:55.489 Interface Builder Cocoa Touch Tool[6501:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@48"CompileXIB Classes/StartScreenViewController.xib327226315#327226315#0(238"2011-05-16 13:41:55.489 Interface Builder Cocoa Touch Tool[6501:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#66"/Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.xib8619051008#587"    cd /Users/wimc/SnakesAndLadders    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/StartScreenViewController.nib /Users/wimc/SnakesAndLadders/Classes/StartScreenViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/wimc/SnakesAndLadders/MainWindow.xib
+s327207391.613863
+e327207410.887819
+r1
+xCompileXIB
+x/Users/wimc/SnakesAndLadders/MainWindow.xib
+o2011-05-16 08:26:49.247 Interface Builder Cocoa Touch Tool[189:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib327207391#327207410#0(237"2011-05-16 08:26:49.247 Interface Builder Cocoa Touch Tool[189:1803] CFPreferences: user home directory at file://localhost/Users/wimc/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#43"/Users/wimc/SnakesAndLadders/MainWindow.xib8602998464#549"    cd /Users/wimc/SnakesAndLadders    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/MainWindow.nib /Users/wimc/SnakesAndLadders/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/1487_large_100x100.png ../Desktop/1487_large_100x100.png
+r0
+
+CCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/988201_20100201_screen002.jpg 988201_20100201_screen002.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/Strawberry.gif Strawberry.gif
+s327221143.994725
+e327221143.999451
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SnakesAndLadders.app/Strawberry.gif
+xStrawberry.gif
+lSLF07#2@19"Copy Strawberry.gif327221143#327221143#0(0"0(0#0#43"/Users/wimc/SnakesAndLadders/Strawberry.gif8613480320#451"    cd /Users/wimc/SnakesAndLadders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wimc/SnakesAndLadders/Strawberry.gif /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app0#
+
+CCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/icon1.png ../Desktop/icon1.png
+s327217848.892799
+e327217848.911949
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SnakesAndLadders.app/icon1.png
+x../Desktop/icon1.png
+lSLF07#2@25"Copy ../Desktop/icon1.png327217848#327217848#0(0"0(0#0#49"/Users/wimc/SnakesAndLadders/../Desktop/icon1.png8616024256#457"    cd /Users/wimc/SnakesAndLadders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wimc/SnakesAndLadders/../Desktop/icon1.png /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app0#
+
+CCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/snake-ladder-iphone-76242.320x480.1255433553.38062.jpg snake-ladder-iphone-76242.320x480.1255433553.38062.jpg
+s327218328.979548
+e327218328.985140
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SnakesAndLadders.app/snake-ladder-iphone-76242.320x480.1255433553.38062.jpg
+xsnake-ladder-iphone-76242.320x480.1255433553.38062.jpg
+lSLF07#2@59"Copy snake-ladder-iphone-76242.320x480.1255433553.38062.jpg327218328#327218328#0(0"0(0#0#83"/Users/wimc/SnakesAndLadders/snake-ladder-iphone-76242.320x480.1255433553.38062.jpg8614873120#491"    cd /Users/wimc/SnakesAndLadders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wimc/SnakesAndLadders/snake-ladder-iphone-76242.320x480.1255433553.38062.jpg /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app0#
+
+CCpResource build/Debug-iphonesimulator/SnakesAndLadders.app/snakesAndLadders.jpg snakesAndLadders.jpg
+s327219257.943003
+e327219257.947387
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SnakesAndLadders.app/snakesAndLadders.jpg
+xsnakesAndLadders.jpg
+lSLF07#2@25"Copy snakesAndLadders.jpg327219257#327219257#0(0"0(0#0#49"/Users/wimc/SnakesAndLadders/snakesAndLadders.jpg8614740320#457"    cd /Users/wimc/SnakesAndLadders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/wimc/SnakesAndLadders/snakesAndLadders.jpg /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app0#
+
+CGenerateDSYMFile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app.dSYM /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders
+s327226713.964143
+e327226713.983398
+r1
+xGenerateDSYMFile
+x/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app.dSYM
+x/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/SnakesAndLadders.app.dSYM build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders327226713#327226713#0(0"0(0#0#94"/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders8619263168#380"    cd /Users/wimc/SnakesAndLadders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders -o /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app.dSYM0#
+
+CLd /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders normal i386
+s327226713.944325
+e327226713.964018
+r1
+xLd
+x/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders
+xnormal
+xi386
+lSLF07#2@99"Link /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders327226713#327226713#0(0"0(0#0#0"8621291936#895"    cd /Users/wimc/SnakesAndLadders    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -filelist /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/Objects-normal/i386/SnakesAndLadders.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/SnakesAndLadders0#
+
+CProcessInfoPlistFile /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/Info.plist SnakesAndLadders-Info.plist
+s327207391.568665
+e327207391.613748
+r1
+xProcessInfoPlistFile
+x/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/Info.plist
+xSnakesAndLadders-Info.plist
+lSLF07#2@35"Process SnakesAndLadders-Info.plist327207391#327207391#0(0"0(0#0#56"/Users/wimc/SnakesAndLadders/SnakesAndLadders-Info.plist32370056120434784#476"    cd /Users/wimc/SnakesAndLadders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SnakesAndLadders-Info.plist -genpkginfo /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app/Info.plist0#
+
+CProcessPCH /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch.gch SnakesAndLadders_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327207410.888074
+e327207415.796959
+r1
+xProcessPCH
+x/var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch.gch
+xSnakesAndLadders_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile SnakesAndLadders_Prefix.pch327207410#327207415#0(0"0(0#0#56"/Users/wimc/SnakesAndLadders/SnakesAndLadders_Prefix.pch8601377088#1877"    cd /Users/wimc/SnakesAndLadders    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-generated-files.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-own-target-headers.hmap -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-all-target-headers.hmap -iquote /Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/SnakesAndLadders-project-headers.hmap -F/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator -I/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/include -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources/i386 -I/Users/wimc/SnakesAndLadders/build/SnakesAndLadders.build/Debug-iphonesimulator/SnakesAndLadders.build/DerivedSources -c /Users/wimc/SnakesAndLadders/SnakesAndLadders_Prefix.pch -o /var/folders/X9/X9oUe3WfE7e+WfMpCrwzd++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnakesAndLadders_Prefix-asehkpzdcrqwyjccwzxldsgflsic/SnakesAndLadders_Prefix.pch.gch0#
+
+CTouch /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app
+s327226713.983500
+e327226713.985467
+r1
+xTouch
+x/Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app
+lSLF07#2@83"Touch /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app327226713#327226713#0(0"0(0#0#0"8618387904#267"    cd /Users/wimc/SnakesAndLadders    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wimc/SnakesAndLadders/build/Debug-iphonesimulator/SnakesAndLadders.app0#
+

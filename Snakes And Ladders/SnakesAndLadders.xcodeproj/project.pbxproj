@@ -1,0 +1,342 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		267F8F831380CC3E006EE18A /* SnakesAndLaddersAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 267F8F821380CC3E006EE18A /* SnakesAndLaddersAppDelegate.m */; };
+		267F8F891380CC66006EE18A /* StartScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 267F8F871380CC66006EE18A /* StartScreenViewController.m */; };
+		267F8F8A1380CC66006EE18A /* StartScreenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 267F8F881380CC66006EE18A /* StartScreenViewController.xib */; };
+		267F8FAE1380D3A6006EE18A /* AboutScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 267F8FAC1380D3A6006EE18A /* AboutScreenViewController.m */; };
+		267F8FAF1380D3A6006EE18A /* AboutScreenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 267F8FAD1380D3A6006EE18A /* AboutScreenViewController.xib */; };
+		267F91031380EB35006EE18A /* GameScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 267F91011380EB35006EE18A /* GameScreenViewController.m */; };
+		267F91041380EB35006EE18A /* GameScreenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 267F91021380EB35006EE18A /* GameScreenViewController.xib */; };
+		267F91161380ED41006EE18A /* OptionsScreenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 267F91141380ED41006EE18A /* OptionsScreenViewController.m */; };
+		267F91171380ED41006EE18A /* OptionsScreenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 267F91151380ED41006EE18A /* OptionsScreenViewController.xib */; };
+		267F911E1380ED9A006EE18A /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 267F911D1380ED9A006EE18A /* Person.m */; };
+		267F91461380F0B2006EE18A /* icon1.png in Resources */ = {isa = PBXBuildFile; fileRef = 267F91451380F0B2006EE18A /* icon1.png */; };
+		267F914D1380F35F006EE18A /* snake-ladder-iphone-76242.320x480.1255433553.38062.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 267F914C1380F35F006EE18A /* snake-ladder-iphone-76242.320x480.1255433553.38062.jpg */; };
+		267F917E1380F64C006EE18A /* snakesAndLadders.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 267F917D1380F64C006EE18A /* snakesAndLadders.jpg */; };
+		267F92271380FF6F006EE18A /* Strawberry.gif in Resources */ = {isa = PBXBuildFile; fileRef = 267F92261380FF6F006EE18A /* Strawberry.gif */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D6058910D05DD3D006BFB54 /* SnakesAndLadders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnakesAndLadders.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		267F8F811380CC3E006EE18A /* SnakesAndLaddersAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnakesAndLaddersAppDelegate.h; path = ../.Trash/SnakesAndLaddersAppDelegate.h; sourceTree = SOURCE_ROOT; };
+		267F8F821380CC3E006EE18A /* SnakesAndLaddersAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SnakesAndLaddersAppDelegate.m; path = ../.Trash/SnakesAndLaddersAppDelegate.m; sourceTree = SOURCE_ROOT; };
+		267F8F861380CC66006EE18A /* StartScreenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartScreenViewController.h; sourceTree = "<group>"; };
+		267F8F871380CC66006EE18A /* StartScreenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartScreenViewController.m; sourceTree = "<group>"; };
+		267F8F881380CC66006EE18A /* StartScreenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StartScreenViewController.xib; sourceTree = "<group>"; };
+		267F8FAB1380D3A6006EE18A /* AboutScreenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutScreenViewController.h; sourceTree = "<group>"; };
+		267F8FAC1380D3A6006EE18A /* AboutScreenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutScreenViewController.m; sourceTree = "<group>"; };
+		267F8FAD1380D3A6006EE18A /* AboutScreenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AboutScreenViewController.xib; sourceTree = "<group>"; };
+		267F91001380EB35006EE18A /* GameScreenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScreenViewController.h; sourceTree = "<group>"; };
+		267F91011380EB35006EE18A /* GameScreenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScreenViewController.m; sourceTree = "<group>"; };
+		267F91021380EB35006EE18A /* GameScreenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GameScreenViewController.xib; sourceTree = "<group>"; };
+		267F91131380ED41006EE18A /* OptionsScreenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OptionsScreenViewController.h; sourceTree = "<group>"; };
+		267F91141380ED41006EE18A /* OptionsScreenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OptionsScreenViewController.m; sourceTree = "<group>"; };
+		267F91151380ED41006EE18A /* OptionsScreenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OptionsScreenViewController.xib; sourceTree = "<group>"; };
+		267F911C1380ED9A006EE18A /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		267F911D1380ED9A006EE18A /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		267F91451380F0B2006EE18A /* icon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon1.png; path = ../Desktop/icon1.png; sourceTree = SOURCE_ROOT; };
+		267F914C1380F35F006EE18A /* snake-ladder-iphone-76242.320x480.1255433553.38062.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "snake-ladder-iphone-76242.320x480.1255433553.38062.jpg"; sourceTree = "<group>"; };
+		267F917D1380F64C006EE18A /* snakesAndLadders.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = snakesAndLadders.jpg; sourceTree = "<group>"; };
+		267F92261380FF6F006EE18A /* Strawberry.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Strawberry.gif; sourceTree = "<group>"; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* SnakesAndLadders_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SnakesAndLadders_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* SnakesAndLadders-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SnakesAndLadders-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				267F911B1380ED8C006EE18A /* DataClasses */,
+				267F8F811380CC3E006EE18A /* SnakesAndLaddersAppDelegate.h */,
+				267F8F821380CC3E006EE18A /* SnakesAndLaddersAppDelegate.m */,
+				267F8F7D1380CBD4006EE18A /* ViewControllers */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* SnakesAndLadders.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		267F8F7D1380CBD4006EE18A /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				267F8F861380CC66006EE18A /* StartScreenViewController.h */,
+				267F8F871380CC66006EE18A /* StartScreenViewController.m */,
+				267F8F881380CC66006EE18A /* StartScreenViewController.xib */,
+				267F8FAB1380D3A6006EE18A /* AboutScreenViewController.h */,
+				267F8FAC1380D3A6006EE18A /* AboutScreenViewController.m */,
+				267F8FAD1380D3A6006EE18A /* AboutScreenViewController.xib */,
+				267F91001380EB35006EE18A /* GameScreenViewController.h */,
+				267F91011380EB35006EE18A /* GameScreenViewController.m */,
+				267F91021380EB35006EE18A /* GameScreenViewController.xib */,
+				267F91131380ED41006EE18A /* OptionsScreenViewController.h */,
+				267F91141380ED41006EE18A /* OptionsScreenViewController.m */,
+				267F91151380ED41006EE18A /* OptionsScreenViewController.xib */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		267F911B1380ED8C006EE18A /* DataClasses */ = {
+			isa = PBXGroup;
+			children = (
+				267F911C1380ED9A006EE18A /* Person.h */,
+				267F911D1380ED9A006EE18A /* Person.m */,
+			);
+			name = DataClasses;
+			sourceTree = "<group>";
+		};
+		267F91471380F0DB006EE18A /* PlayerIcons */ = {
+			isa = PBXGroup;
+			children = (
+				267F92261380FF6F006EE18A /* Strawberry.gif */,
+				267F91451380F0B2006EE18A /* icon1.png */,
+			);
+			name = PlayerIcons;
+			sourceTree = "<group>";
+		};
+		267F914E1380F364006EE18A /* BackgroundImages */ = {
+			isa = PBXGroup;
+			children = (
+				267F917D1380F64C006EE18A /* snakesAndLadders.jpg */,
+				267F914C1380F35F006EE18A /* snake-ladder-iphone-76242.320x480.1255433553.38062.jpg */,
+			);
+			name = BackgroundImages;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* SnakesAndLadders_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				267F914E1380F364006EE18A /* BackgroundImages */,
+				267F91471380F0DB006EE18A /* PlayerIcons */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* SnakesAndLadders-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* SnakesAndLadders */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SnakesAndLadders" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SnakesAndLadders;
+			productName = SnakesAndLadders;
+			productReference = 1D6058910D05DD3D006BFB54 /* SnakesAndLadders.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SnakesAndLadders" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* SnakesAndLadders */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				267F8F8A1380CC66006EE18A /* StartScreenViewController.xib in Resources */,
+				267F8FAF1380D3A6006EE18A /* AboutScreenViewController.xib in Resources */,
+				267F91041380EB35006EE18A /* GameScreenViewController.xib in Resources */,
+				267F91171380ED41006EE18A /* OptionsScreenViewController.xib in Resources */,
+				267F91461380F0B2006EE18A /* icon1.png in Resources */,
+				267F914D1380F35F006EE18A /* snake-ladder-iphone-76242.320x480.1255433553.38062.jpg in Resources */,
+				267F917E1380F64C006EE18A /* snakesAndLadders.jpg in Resources */,
+				267F92271380FF6F006EE18A /* Strawberry.gif in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				267F8F831380CC3E006EE18A /* SnakesAndLaddersAppDelegate.m in Sources */,
+				267F8F891380CC66006EE18A /* StartScreenViewController.m in Sources */,
+				267F8FAE1380D3A6006EE18A /* AboutScreenViewController.m in Sources */,
+				267F91031380EB35006EE18A /* GameScreenViewController.m in Sources */,
+				267F91161380ED41006EE18A /* OptionsScreenViewController.m in Sources */,
+				267F911E1380ED9A006EE18A /* Person.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SnakesAndLadders_Prefix.pch;
+				INFOPLIST_FILE = "SnakesAndLadders-Info.plist";
+				PRODUCT_NAME = SnakesAndLadders;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SnakesAndLadders_Prefix.pch;
+				INFOPLIST_FILE = "SnakesAndLadders-Info.plist";
+				PRODUCT_NAME = SnakesAndLadders;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SnakesAndLadders" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SnakesAndLadders" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
